@@ -466,6 +466,9 @@ section.form .container {
 #social-buttons2-3 .btn-social {
   color: #232323;
 }
+#social-buttons2-3 .mbr-section-title {
+  color: #deb43e;
+}
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -526,23 +529,6 @@ section.form .container {
 #menu-6 .link[aria-expanded="true"],
 #menu-6 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#features4-7 .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-7 .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#features7-8 .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-8 .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
-}
-#features2-9 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
 }
 #msg-box8-o .mbr-section-title,
 #msg-box8-o p {
